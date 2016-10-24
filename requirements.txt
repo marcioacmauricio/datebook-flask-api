@@ -1,0 +1,11 @@
+Flask==0.10.1
+Flask-Migrate==1.8.0
+Flask-Script==2.0.5
+Flask-SQLAlchemy==2.1
+flask_restful==0.3.4
+flask_debugtoolbar==0.10.0
+Jinja2==2.8
+psycopg2==2.6.1
+SQLAlchemy==1.0.14
+py-postgresql==1.1.0
+six==1.10.0
